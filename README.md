@@ -1,2 +1,2 @@
 # Python
-Some python scripts I created for fun
+Some python scripts and notebooks I created
